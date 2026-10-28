@@ -25,7 +25,7 @@
       ]
     },
     {
-      "UpstreamPathTemplate": "/management/design/{everything}",
+      "UpstreamPathTemplate": "/management/design/",
       "UpstreamHttpMethod": [ "GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS" ],
       "DownstreamPathTemplate": "/api/Design",
       "DownstreamScheme": "http",
